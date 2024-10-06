@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    width: 100px;
+    height: 100px;
+    color: white;
+}
+
+.title {
+    width: auto;
+    color: white;
+    border-left: 3px solid darkgreen;
+    padding: 4px;
+}
+
+.list {
+    border-top: 3px solid darkred;
+    border-bottom: 3px solid darkred;
+    color: white;
+    display: block;
+}
